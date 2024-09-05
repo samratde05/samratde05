@@ -5,8 +5,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samratde05&label=Profile%20views&color=0e75b6&style=flat" alt="samratde05" /> </p>
-
 <p align="left"> <a href="https://twitter.com/samratde05" target="blank"><img src="https://img.shields.io/twitter/follow/samratde05?logo=twitter&style=for-the-badge" alt="samratde05" /></a> </p>
 
 - 💬 Ask me about **C,JAVA,PYTHON,MERN**
