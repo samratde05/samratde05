@@ -17,4 +17,5 @@ jobs:
         with:
           user_id: ${{ secrets.USER_ID }}
           commit_filename: devcard.png
+          type: wide
           commit_message: "chore: update ${filename}"
