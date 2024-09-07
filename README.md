@@ -4,7 +4,7 @@
 
 
 
-<a href="https://app.daily.dev/samratde"><img align="right" src="https://api.daily.dev/devcards/v2/kxBvm23n2NHdJHj4OobQv.png?type=wide&r=0jk" width="500" alt="Samrat De's Dev Card"/></a>
+<a href="https://app.daily.dev/samratde"><img align="right" src="./devcard.png" width="500" alt="Samrat De's Dev Card"/></a>
 
 
 <p align="left"> <a href="https://twitter.com/samratde05" target="blank"><img src="https://img.shields.io/twitter/follow/samratde05?logo=twitter&style=for-the-badge" alt="samratde05" /></a> </p>
