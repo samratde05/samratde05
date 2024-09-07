@@ -27,5 +27,5 @@
 
 <img align="right" alt="gif" width="400" height="560" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThvdDk4dG83N2JrYmhwbnRmc2ZleW8xN2FkbHExYXpmMDQ4ZHV4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9j5BAlD3AYzmbjKpc/giphy.webp">
 <p> <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=samratde05&show_icons=true&locale=en&layout=compact" width="400"  alt="samratde05" /></p>
-<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=samratde05&show_icons=true&locale=en" width="400"  alt="samratde05" /></p>
+<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=samratde05&show_icons=true&locale=en" width=400  alt="samratde05" /></p>
 <p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samratde05" width="400"  alt="samratde05" /></p>
