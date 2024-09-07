@@ -8,7 +8,7 @@ on:
     - cron: "0 0 * * *"
 jobs:
   devcard:
-    runs-on: ubuntu-latest
+    runs-on: windows_latest
     permissions:
       contents: write
     steps:
