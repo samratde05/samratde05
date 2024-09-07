@@ -3,6 +3,8 @@
 <h3 align="center">An aspiring web developer from India with a growing passion for AI and ML</h3>
 <img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
+<a href="https://app.daily.dev/samratde"><img src="https://api.daily.dev/devcards/v2/kxBvm23n2NHdJHj4OobQv.png?type=wide&r=0jk" width="652" alt="Samrat De's Dev Card"/></a>
+
 
 
 <p align="left"> <a href="https://twitter.com/samratde05" target="blank"><img src="https://img.shields.io/twitter/follow/samratde05?logo=twitter&style=for-the-badge" alt="samratde05" /></a> </p>
