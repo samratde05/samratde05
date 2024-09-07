@@ -8,7 +8,7 @@ on:
     - cron: "0 0 * * *"
 jobs:
   devcard:
-    runs-on: windows-11
+    runs-on: windows-latest
     permissions:
       contents: write
     steps:
